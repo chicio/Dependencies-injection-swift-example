@@ -3,7 +3,7 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/chicio/dependencies-injection-swift-example/blob/master/LICENSE.md)
 [![Supported platform](https://img.shields.io/badge/platforms-iOS-orange.svg)](https://img.shields.io/badge/platforms-iOS-orange.svg)
 
-A sample project for my blog post post [How to: create your SUPER simple dependency injector framework in Swift](https://www.fabrizioduroni.it/2020/03/19/dependecy-injection-swift.html), where I show how to create a simple dependecies injector container in Swift. 
+A sample project for my blog post post [How to: create your SUPER simple dependency injector framework in Swift](https://www.fabrizioduroni.it/2020/03/19/dependecy-injection-swift/), where I show how to create a simple dependecies injector container in Swift. 
 
 ### Description
 
